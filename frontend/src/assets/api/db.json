@@ -1,0 +1,166 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Blog post #1",
+      "author": "Melissa Manges",
+      "publish_date": "2022-02-23",
+      "slug": "blog-post-1",
+      "description": "Chacun découvre finalement ce qu'il recherche.",
+      "content": "<p>Chacun découvre finalement ce qu'il recherche. On ne peut ignorer les définitions, et la place d'une personne dépend de son jugement.</p> <p>Il s'agit de perfectionner l'adaptation, on y trouve quelque chose de précieux pour chacun. Les grandes idées peuvent être mieux comprises avec l'expérience.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Blog post #2",
+      "author": "Olene Ogan",
+      "publish_date": "2022-03-16",
+      "slug": "blog-post-2",
+      "description": "On peut aborder chaque question avec attention, et ne jamais négliger les défis.",
+      "content": "<p>On peut aborder chaque question avec attention, et ne jamais négliger les défis. Chacun connaît des moments d'évolution personnelle. Nous sommes souvent confrontés à des dilemmes et devons agir en conséquence.</p> <p>Certains apprennent à s'épanouir dans l'adversité. Nous vivons en développant des perspectives nouvelles, toujours prêtes à évoluer.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Blog post #3",
+      "author": "Annemarie Axelrod",
+      "publish_date": "2022-03-28",
+      "slug": "blog-post-3",
+      "description": "Repenser chaque situation avec clarté est crucial.",
+      "content": "<p>Repenser chaque situation avec clarté est crucial. Nous cherchons tous à comprendre notre monde à travers les défis rencontrés.</p> <p>Nous devons évaluer nos options, et réagir en conséquence. L'acceptation des idées peut souvent mener à une meilleure compréhension de soi.</p>"
+    },
+    {
+      "id": 4,
+      "title": "Blog post #4",
+      "author": "Magnolia Moyer",
+      "publish_date": "2022-06-03",
+      "slug": "blog-post-4",
+      "description": "Nous explorons tous les dimensions de notre existence.",
+      "content": "<p>Nous explorons tous les dimensions de notre existence. L'échange d'idées permet de comprendre les complexités.</p> <p>Chaque interaction peut nous permettre de mieux comprendre les défis que nous devons surmonter. Les idées se forment et se développent au fil des expériences.</p>"
+    },
+    {
+      "id": 5,
+      "title": "Blog post #5",
+      "author": "Alexandra Alexander",
+      "publish_date": "2022-08-09",
+      "slug": "blog-post-5",
+      "description": "Nous sommes confrontés à des dangers, mais nous trouvons toujours un moyen de les surmonter.",
+      "content": "<p>Nous sommes confrontés à des dangers, mais nous trouvons toujours un moyen de les surmonter. Il y a des moments où l'esprit doit dépasser les obstacles pour prospérer.</p> <p>Il est essentiel de savoir quand s'adapter aux circonstances. Chaque défi offre une opportunité d'apprentissage, et nous développons constamment de nouvelles perspectives.</p>"
+    },
+    {
+      "id": 6,
+      "title": "Blog post #6",
+      "author": "Merna Mitchel",
+      "publish_date": "2022-09-16",
+      "slug": "blog-post-6",
+      "description": "Nous devons toujours être prêts à réagir aux situations imprévues.",
+      "content": "<p>Nous devons toujours être prêts à réagir aux situations imprévues. Les défis nous permettent de nous adapter et de réévaluer nos priorités.</p> <p>Dans chaque défi se trouve une opportunité d'apprentissage, et c'est ainsi que nous progressons, même dans les moments difficiles.</p>"
+    },
+    {
+      "id": 7,
+      "title": "Blog post #7",
+      "author": "Shari Stampley",
+      "publish_date": "2022-09-29",
+      "slug": "blog-post-7",
+      "description": "Nous devons nourrir nos ambitions, mais aussi apprendre à les modérer.",
+      "content": "<p>Nous devons nourrir nos ambitions, mais aussi apprendre à les modérer. Il est crucial de trouver un équilibre dans notre poursuite d'objectifs personnels et professionnels.</p> <p>Chaque décision nous aide à mieux comprendre notre environnement et les conséquences de nos actions.</p>"
+    },
+    {
+      "id": 8,
+      "title": "Blog post #8",
+      "author": "Haywood Halfacre",
+      "publish_date": "2022-09-30",
+      "slug": "blog-post-8",
+      "description": "Nous devons aborder chaque situation avec une ouverture d'esprit et une volonté d'apprendre.",
+      "content": "<p>Nous devons aborder chaque situation avec une ouverture d'esprit et une volonté d'apprendre. Il est essentiel de développer une compréhension plus approfondie des personnes et des circonstances autour de nous.</p> <p>Chaque défi que nous rencontrons offre une nouvelle perspective, et il est important de savoir s'adapter à ces changements.</p>"
+    },
+    {
+      "id": 9,
+      "title": "Blog post #9",
+      "author": "Myron Montford",
+      "publish_date": "2022-10-11",
+      "slug": "blog-post-9",
+      "description": "Il est essentiel de cultiver nos idées et de les remettre en question.",
+      "content": "<p>Il est essentiel de cultiver nos idées et de les remettre en question. Il est souvent nécessaire d'ajuster nos perspectives pour mieux comprendre ce qui nous entoure.</p> <p>Le processus d'apprentissage est constant, et chaque expérience nous permet de grandir intellectuellement.</p>"
+    },
+    {
+      "id": 10,
+      "title": "Blog post #10",
+      "author": "Tandy Thiem",
+      "publish_date": "2022-11-29",
+      "slug": "blog-post-10",
+      "description": "Nous devons être prêts à remettre en question nos croyances pour évoluer.",
+      "content": "<p>Nous devons être prêts à remettre en question nos croyances pour évoluer. C'est en s'ouvrant à de nouvelles idées que l'on peut véritablement grandir.</p> <p>Chaque réflexion nous pousse à mieux comprendre notre environnement, et à prendre des décisions plus éclairées.</p>"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "parent_id": null,
+      "user": "Amelia",
+      "date": "2022-02-23",
+      "content": "Il n'y a rien de tel que de se sentir en sécurité et calme. Nous devons tous aspirer à cela."
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "parent_id": 1,
+      "user": "Jake",
+      "date": "2022-02-23",
+      "content": "Rester équilibré dans l'adversité est un art que peu maîtrisent."
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "parent_id": 2,
+      "user": "Amelia",
+      "date": "2022-02-24",
+      "content": "Le vrai défi est de rester serein face aux difficultés."
+    },
+    {
+      "id": 4,
+      "postId": 1,
+      "parent_id": 1,
+      "user": "Natashia",
+      "date": "2022-02-23",
+      "content": "C'est en persévérant que nous pouvons vraiment surmonter les obstacles."
+    },
+    {
+      "id": 5,
+      "postId": 1,
+      "parent_id": null,
+      "user": "Shella",
+      "date": "2022-02-24",
+      "content": "Il est essentiel de trouver des solutions créatives pour avancer."
+    },
+    {
+      "id": 6,
+      "postId": 2,
+      "parent_id": null,
+      "user": "Hermina",
+      "date": "2022-03-16",
+      "content": "Nous grandissons à travers nos expériences et nos échecs."
+    },
+    {
+      "id": 7,
+      "postId": 2,
+      "parent_id": null,
+      "user": "Natashia",
+      "date": "2022-03-17",
+      "content": "L'adaptation est la clé pour surmonter les changements dans la vie."
+    },
+    {
+      "content": "Premier commentaire",
+      "user": "vaibhav",
+      "date": "2023-06-20",
+      "postId": "10",
+      "id": 8
+    },
+    {
+      "content": "Deuxième commentaire mis à jour",
+      "user": "vbv",
+      "date": "2023-06-20",
+      "postId": "10",
+      "id": 9
+    }
+  ]
+}
